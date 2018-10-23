@@ -1,7 +1,7 @@
 [実行環境]
 - Vagrant(2.1.5)
     Box: http://cloud.centos.org/centos/7/vagrant/x86_64/images/CentOS-7-x86_64-Vagrant-1809_01.VirtualBox.box
-    Plugin: vagrant-hostaupdater, vagrant-share, vagrant-vbguest
+    Plugin: vagrant-hostsupdater, vagrant-share, vagrant-vbguest
 - VirtualBox(5.2.18)
 
 [手順]
